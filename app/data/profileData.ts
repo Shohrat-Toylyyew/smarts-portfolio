@@ -126,7 +126,8 @@ export const PROFILE_DATA: WorkerProfile = {
 				'/projects/sadazehin/sadazehin11.webp'
 			],
 			description:
-				'Developed both the corporate website and admin dashboard for SadaZehin H.J using Nuxt.js. Collaborated closely with the backend developer to integrate APIs, implement dynamic functionality, and ensure a seamless user experience.'
+				'Developed both the corporate website and admin dashboard for SadaZehin H.J using Nuxt.js. Collaborated closely with the backend developer to integrate APIs, implement dynamic functionality, and ensure a seamless user experience.',
+				url: 'https://sadazehin.com.tm/'
 		},
 		{
 			name: 'Milli Info',
